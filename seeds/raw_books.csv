@@ -1,0 +1,51 @@
+Book_ID,Title,Author_ID,Genre_ID,Publication_Year,Price,Stock
+1,Memoirs of Monica,4,1,2002,17.73,7
+2,Chronicles of Kelly,4,1,1868,14.56,9
+3,Memoirs of Ron,8,3,1924,11.84,7
+4,Memoirs of Uma,5,4,1993,24.92,17
+5,Chronicles of Tony,9,1,1893,21.62,14
+6,Chronicles of Quentin,6,2,1882,18.91,17
+7,The Adventures of Kelly,10,4,1858,22.12,1
+8,Chronicles of Bob,8,3,2016,6.58,1
+9,Memoirs of Sandy,3,3,1878,8.58,18
+10,The Adventures of Gloria,1,1,1872,16.79,13
+11,The Adventures of Kevin,10,5,1855,7.54,7
+12,Memoirs of Ron,4,3,1944,14.07,20
+13,The Adventures of Laura,1,4,1931,6.66,12
+14,Chronicles of Nick,10,4,1996,18.8,6
+15,Chronicles of Julia,2,1,1994,10.4,18
+16,Memoirs of Uma,5,2,1965,10.96,11
+17,Memoirs of Amber,10,4,1830,13.7,10
+18,The Adventures of Kevin,1,3,2015,12.19,5
+19,The Adventures of Rachel,6,3,1976,15.71,16
+20,Memoirs of Wendy,8,1,1845,19.06,11
+21,Memoirs of Oscar,2,4,1830,9.84,4
+22,Memoirs of Ian,1,2,1936,10.58,11
+23,The Adventures of Tony,8,5,1803,12.4,13
+24,Memoirs of Liam,5,3,1899,17.7,18
+25,The Adventures of Nancy,4,1,1941,14.19,18
+26,Chronicles of Wes,8,4,1870,16.02,16
+27,The Adventures of Sandy,2,2,1886,15.71,11
+28,Memoirs of Paul,3,2,1931,6.16,13
+29,The Adventures of Jack,1,4,1860,16.48,7
+30,Memoirs of Quincy,3,1,1818,13.13,10
+31,Memoirs of Quincy,9,1,1984,24.28,11
+32,Memoirs of Felix,5,3,1948,11.6,17
+33,The Adventures of Wendy,10,5,1876,8.75,12
+34,Chronicles of Wes,6,4,1867,9.01,17
+35,Memoirs of Uma,4,1,1875,6.59,8
+36,Chronicles of Amber,4,1,1882,14.91,20
+37,Memoirs of Michael,4,5,1883,14.3,17
+38,Memoirs of Victor,4,2,1870,20.61,18
+39,The Adventures of Ron,9,4,1987,14.29,1
+40,Memoirs of Alice,5,4,1859,22.12,11
+41,The Adventures of Victor,6,2,1927,9.49,4
+42,Memoirs of Nick,5,4,1854,10.7,20
+43,Memoirs of Victor,5,2,1821,21.67,11
+44,The Adventures of Rachel,5,3,1834,20.4,12
+45,The Adventures of Tina,7,2,1912,23.71,13
+46,The Adventures of Oliver,2,4,2009,13.15,17
+47,The Adventures of Grace,3,2,1871,16.09,7
+48,The Adventures of Hannah,4,1,1846,5.47,17
+49,Chronicles of Paul,3,2,1923,8.92,11
+50,Memoirs of Ian,8,3,1924,17.44,11
